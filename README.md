@@ -15,12 +15,13 @@ Yearly the childern at our group (ages 10 and above) are offered the opportunity
 
 
 # Design
+The plan for this year is to design a FM radio that can receive 'encrypted' messages sent over the air by the enemy, so childeren can act like spies during the game
 
-The plan for this year is to design a FM radio that can receive 'encrypted' messages over the air so childeren can act like spies during the game
+
 
 Some notes:
 * Hardware is designed in KiCad
-* Software is made using VSCode and Platformio
+* Software is made using VSCode+Platformio
 
 
 
